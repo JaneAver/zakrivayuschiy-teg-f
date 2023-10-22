@@ -12,7 +12,7 @@
   --background-color: #d3d3d3;
 }
 
-@media (prefers-colors-scheme: light) {
+@media (prefers-color-scheme: light) {
   :root {
     --themes-main-color: #000;
     --themes-background: #fff;
@@ -30,7 +30,7 @@
   --background-color: #000;
 }
 
-@media (prefers-colors-scheme: dark) {
+@media (prefers-color-scheme: dark) {
   :root {
     --themes-main-color: #00cc14;
     --themes-background: #000000;
